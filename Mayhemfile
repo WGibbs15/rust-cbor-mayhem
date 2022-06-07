@@ -1,4 +1,4 @@
-project: wgibbs15/rust-cbor-mayhem
+project: rust-cbor
 
 # Target name (should be unique within the project)
 target: cbor-fuzz
